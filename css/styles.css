@@ -7,8 +7,8 @@
   color: white;
   font-weight: bold;
 }
-.contactbg{
-    background-color: #303841;
+.contactbg {
+  background-color: #303841;
 }
 
 .navspanbg {
@@ -46,7 +46,7 @@ html {
   transform: translate(-50%, -50%);
   color: white;
 }
-aligncenterunderline {
+.aligncenterunderline {
   text-align: center;
   text-decoration: underline;
 }
